@@ -321,3 +321,6 @@ Before you move on, make sure you can answer the following questions:
 ## Resources
 
 - [The Rails Command Line](https://guides.rubyonrails.org/command_line.html)
+
+
+ bless up Rails
